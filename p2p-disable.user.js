@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name         Force P2P Upload Disabled
+// @name         P2P Disabler
+// @description  P2P Disabler
 // ---- tvwiki
 // @match        https://tvwiki31.net/*
 // @match        https://tvwiki32.net/*
@@ -23,6 +24,8 @@
 // @match        https://*.gcdn.app/*
 // @match        https://gcdn.app/*
 // ---- other...
+// @downloadURL  https://github.com/rondos-cash-0t/webtorrent-p2p-disabler/raw/refs/heads/main/p2p-disable.user.js
+// @updateURL    https://github.com/rondos-cash-0t/webtorrent-p2p-disabler/raw/refs/heads/main/p2p-disable.user.js
 // @run-at       document-start
 // @grant        unsafeWindow
 // ==/UserScript==
