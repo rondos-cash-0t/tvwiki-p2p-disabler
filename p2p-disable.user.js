@@ -17,8 +17,8 @@
 // @match        https://toki27.com/*
 // @match        https://toki28.com/*
 // @match        https://aniplayer1.site/*
-// @match        https://*.anilife.app/*
 // ---- anilife
+// @match        https://*.anilife.app/*
 // @match        https://anilife.app/*
 // @match        https://*.gcdn.app/*
 // @match        https://gcdn.app/*
