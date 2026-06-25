@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         P2P Disabler
 // @description  P2P Disabler
+// @version      1.0.0
 // @note  ---- tvwiki
 // @match        https://tvwiki31.net/*
 // @match        https://tvwiki32.net/*
